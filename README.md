@@ -1,3 +1,3 @@
 # beelumb2
-My second website
+Bysiness type website
 
